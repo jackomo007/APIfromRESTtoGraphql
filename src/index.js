@@ -8,10 +8,18 @@ const typeDefs = gql`
     unknown
   }
 
+  enum CharacterGender {
+    Male
+    Female
+    unknown
+  }
+
   type Character {
     name: String
     id: ID
     status: CharacterStatus
+    gender: CharacterGender
+    image: String
     episodes: [String]
   }
 
