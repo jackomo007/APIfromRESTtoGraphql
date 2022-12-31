@@ -41,4 +41,4 @@ This project just was created to learn more about transform a request from rest 
 The functioning of this application can be seen below:
 
 <img alt="home"
-    src="https://github.com/jackomo007/APIfromRESTtoGraphql/blob/main/assets/screen.png" width="280px"/>
+    src="https://github.com/jackomo007/APIfromRESTtoGraphql/blob/master/src/assets/preview.jpg" width="280px"/>
